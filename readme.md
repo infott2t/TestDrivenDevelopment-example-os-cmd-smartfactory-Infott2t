@@ -13,7 +13,7 @@ How to use, Need, make jar file.</p>
   <li>java -jar SmartFactoryEx_Infott2t.jar</li>
 </ul>
 <p>
-And Let's go there~. Church. Jesus Christ. Calling. I like this writing.
+And Let's go there~. Church. Jesus Christ. Calling. I like this writing. Social resting place~.
 </p>
 <p>
 Have a good day~.
